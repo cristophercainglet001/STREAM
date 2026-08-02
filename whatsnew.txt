@@ -1,10 +1,14 @@
 What's New
 
-Enhanced Internet Connection Detection** – Improved the system's ability to detect internet connectivity, providing more reliable online services and smoother synchronization with the Division Server.
-Enhanced Division Submissions** – Streamlined and optimized the data submission process for the Division of Zamboanga Sibugay, ensuring faster, smoother, and more reliable report submissions.
-Teachers Program Fix** – Resolved an issue that caused duplicate break periods in the Teachers Program, resulting in more accurate and conflict-free class schedules.
-Improved Schedule Reports** – Updated schedule reports to correctly display **Flag Ceremony**, **Recess Time**, and **Noon Break** based on the configured school schedule, ensuring clearer and more accurate printed reports.
+    1. Enhanced Internet Connection Detection – Improved the system's ability to detect internet connectivity, providing more reliable online services and smoother synchronization with the Division Server.
+
+    2. Enhanced Division Submissions – Streamlined and optimized the data submission process for the Division of Zamboanga Sibugay, ensuring faster, smoother, and more reliable report submissions.
+
+    3. Teachers Program Fix – Resolved an issue that caused duplicate break periods in the Teachers Program, resulting in more accurate and conflict-free class schedules.
+
+    4. Improved Schedule Reports – Updated schedule reports to correctly display **Flag Ceremony**, **Recess Time**, and **Noon Break** based on the configured school schedule, ensuring clearer and more accurate printed reports.
 
 Reminder
-To ensure accurate and reliable reports, all users are encouraged to review and verify all encoded information before generating and submitting official school forms.
-Thank you for your continued trust and support in using the **STREAM System**. Your valuable feedback continues to inspire improvements that help teachers, school heads, and school personnel work more efficiently.
+    To ensure accurate and reliable reports, all users are encouraged to review and verify all encoded information before generating and submitting official school forms.
+
+    Thank you for your continued trust and support in using the **STREAM System**. Your valuable feedback continues to inspire improvements that help teachers, school heads, and school personnel work more efficiently.
