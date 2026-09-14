@@ -1,21 +1,20 @@
 What's New
-1. Enhanced Internet Connection Detection
-Improved the system's ability to detect internet connectivity, providing more reliable online services and smoother synchronization with the Division Server.
 
-2. Enhanced Division Submissions
-Streamlined and optimized the data submission process for the Division of Zamboanga Sibugay, ensuring faster, smoother, and more reliable report submissions.
+Term-Based Schedule Management
+Introducing Term Management for a more flexible and organized scheduling experience.
 
-3. Teachers Program Fix
-Resolved an issue that caused duplicate break periods in the Teachers Program, resulting in more accurate and conflict-free class schedules.
+    Users can now select and manage schedules by Term 1 to Term 4, allowing them to easily filter and generate Teachers Program, Class Program, and Master Class Program reports according to the selected term.
+The new feature also provides the ability to copy schedules from one term to another, making it easier to prepare succeeding terms without rebuilding schedules from scratch. This helps reduce repetitive encoding, saves valuable time, and provides a more efficient way to manage changing schedules throughout the school year.
+    With Term Management, STREAM gives schools greater flexibility, better organization, and smarter schedule management—allowing teachers and school personnel to focus more on what matters most: delivering quality education.
 
-4. Improved Schedule Reports
-Updated schedule reports to correctly display Flag Ceremony, Recess Time, and Noon Break based on the configured school schedule, ensuring clearer, more accurate, and standardized printed reports.
-
-5. Enhanced Program Printing
-Schedule and workload reports now support the proper display and printing of Learning Action Cell (LAC), Learning Partnership Program (LPP), and Other Division/School Initiative Programs, ensuring these official activities are accurately reflected in teachers' schedules and printed reports.
-
+---
 Reminder
+To ensure accurate and reliable reports, all users are encouraged to review and verify all encoded information before generating, printing, or submitting official school forms and reports.
+Accurate data leads to accurate reports—and accurate reports help ensure a smoother and more dependable school records management process.
 
-To ensure accurate and reliable reports, all users are encouraged to review and verify all encoded information before generating and submitting official school forms.
 
-Thank you for your continued trust and support in using the STREAM System. Your valuable feedback continues to inspire continuous improvements that help teachers, school heads, and school personnel work more efficiently.
+Thank you for your continued trust, support, and confidence in the STREAM System.
+
+Every update is inspired by the actual needs, experiences, and valuable feedback of our teachers, school heads, and school personnel. As STREAM continues to grow, our goal remains the same: to make school records management simpler, smarter, faster, and more reliable.
+
+STREAM — continuously evolving with our schools, for our schools.
