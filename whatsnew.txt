@@ -3,11 +3,21 @@ What's New
 Term-Based Schedule Management
 Introducing Term Management for a more flexible and organized scheduling experience.
 
-    Users can now select and manage schedules by Term 1 to Term 4, allowing them to easily filter and generate Teachers Program, Class Program, and Master Class Program reports according to the selected term.
-The new feature also provides the ability to copy schedules from one term to another, making it easier to prepare succeeding terms without rebuilding schedules from scratch. This helps reduce repetitive encoding, saves valuable time, and provides a more efficient way to manage changing schedules throughout the school year.
-    With Term Management, STREAM gives schools greater flexibility, better organization, and smarter schedule management—allowing teachers and school personnel to focus more on what matters most: delivering quality education.
+Users can now select and manage schedules by Term 1 to Term 4, allowing them to easily filter and generate Teachers Program, Class Program, and Master Class Program reports according to the selected term.
 
----
+The new feature also provides the ability to copy schedules from one term to another, making it easier to prepare succeeding terms without rebuilding schedules from scratch. This helps reduce repetitive encoding, saves valuable time, and provides a more efficient way to manage changing schedules throughout the school year.
+
+With Term Management, STREAM gives schools greater flexibility, better organization, and smarter schedule management—allowing teachers and school personnel to focus more on what matters most: delivering quality education.
+
+Enhanced Master Class Program & Highly Detailed SF7 Reports
+Bringing deeper clarity, precision, and rank-specific accuracy to your structural and personnel reporting.
+
+We have thoughtfully upgraded the Master Class Program to provide a more comprehensive, streamlined, and visually intuitive overview of your school's entire class structure. Generating this critical report is now smoother, ensuring that complex scheduling data is presented with absolute clarity.
+
+Alongside this, our School Form 7 (SF7) generation has been significantly refined. Recognizing the importance of your personnel’s professional growth and status, the SF7 now intelligently captures and displays explicit, exact working positions (e.g., Teacher I, Teacher II, Master Teacher I) rather than grouping them into broad categories. This granular attention to detail guarantees that your personnel roster and summary tables reflect the true, exact composition of your teaching and non-teaching workforce.
+
+By automating these precise categorizations, STREAM empowers school administrators to generate highly accurate, instantly verifiable reports with zero manual adjustments—saving you time while honoring the specific ranks and designations of your dedicated staff.
+
 Reminder
 To ensure accurate and reliable reports, all users are encouraged to review and verify all encoded information before generating, printing, or submitting official school forms and reports.
 Accurate data leads to accurate reports—and accurate reports help ensure a smoother and more dependable school records management process.
